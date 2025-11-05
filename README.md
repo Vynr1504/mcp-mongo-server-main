@@ -60,7 +60,7 @@ npm install -g mcp-mongo-server
 
 ```bash
 # Clone repository
-git clone https://github.com/kiliczsh/mcp-mongo-server.git
+git clone https://github.com/Vynr1504/mcp-mongo-server-main.git
 cd mcp-mongo-server
 
 # Install dependencies
