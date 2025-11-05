@@ -207,7 +207,7 @@ Add the server configuration to Claude Desktop's config file:
       "command": "npx",
       "args": [
         "-y",
-        "github:kiliczsh/mcp-mongo-server",
+        "github:Vynr1504/mcp-mongo-server",
         "mongodb://vynr:1504@localhost:27017/database"
       ]
     },
@@ -215,7 +215,7 @@ Add the server configuration to Claude Desktop's config file:
       "command": "npx",
       "args": [
         "-y",
-        "github:kiliczsh/mcp-mongo-server",
+        "github:Vynr1504/mcp-mongo-server",
         "mongodb://vynr:1504@localhost:27017/database",
         "--read-only"
       ]

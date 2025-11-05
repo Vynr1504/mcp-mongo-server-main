@@ -43,11 +43,11 @@
         "mcp-connector",
         "mcp-connector-mongodb"
     ],
-    "author": "Muhammed Kilic <kiliczsh>",
+    "author": "Muhammed Kilic <Vynr1504>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/kiliczsh/mcp-mongo-server"
+        "url": "https://github.com/Vynr1504/mcp-mongo-server"
     },
-    "homepage": "https://github.com/kiliczsh/mcp-mongo-server"
+    "homepage": "https://github.com/Vynr1504/mcp-mongo-server"
 }
